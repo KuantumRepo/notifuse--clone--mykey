@@ -66,7 +66,7 @@ const (
 	// red instead of refusing every paying customer's licence in silence. Never
 	// re-mint the vector to match a slot you have not verified — that pins the
 	// mistake instead of catching it.
-	slotActiveEncoded = "9WeH7ppMdiG6MOUKX587oGTR09NfRPZHNM0o5jw6AoU="
+	slotActiveEncoded = "xFFgGOsLn4xssqqA/pQAnK2Kov/4zsbl2nZrrUkWxOU="
 
 	// slotNextEncoded is empty until a rotation is under way. During a rotation
 	// both slots are populated and both are accepted; once every outstanding
